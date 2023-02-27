@@ -1,0 +1,2 @@
+Either remove Logback or the competing implementation (class org.slf4j.helpers.NOPLoggerFactory loaded from file:/C:/Users/dyf/work_space/env/MyJavaRepository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar).
+If you are using WebLogic you will need to add 'org.slf4j' to prefer-application-packages in WEB-INF/weblogic.xml: org.slf4j.helpers.NOPLoggerFactory
